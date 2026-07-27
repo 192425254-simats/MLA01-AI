@@ -1,0 +1,6 @@
+Start from the initial node.
+Put the start node into the priority queue.
+Select the node with the lowest heuristic value.
+If it is the goal, stop.
+Otherwise, add its neighbors.
+Repeat until the goal is found.
