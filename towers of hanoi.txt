@@ -1,0 +1,4 @@
+Move n−1 disks from Source to Auxiliary.
+Move largest disk to Destination.
+Move n−1 disks from Auxiliary to Destination.
+Repeat until completed.
