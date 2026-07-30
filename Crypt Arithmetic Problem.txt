@@ -1,0 +1,6 @@
+Start.
+Assign a unique digit (0–9) to each letter.
+Ensure no two letters have the same digit.
+Check whether the arithmetic equation is correct.
+If the equation is satisfied, display the solution.
+Stop.
