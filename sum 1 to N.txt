@@ -1,0 +1,9 @@
+Start.
+Define a recursive function sum_n(n).
+If n == 1, return 1. (Base Case)
+Otherwise, return n + sum_n(n-1). (Recursive Call)
+Read the value of n from the user.
+Call the function sum_n(n).
+Store the returned value.
+Display the sum.
+Stop.
