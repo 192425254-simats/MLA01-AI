@@ -1,0 +1,12 @@
+Start.
+Initialize the positions of the monkey, stool, stick, and banana.
+Set on_stool = False.
+Set has_stick = False.
+Set has_banana = False.
+If the monkey is not at the stool, move the monkey to the stool.
+If the monkey is at the stick, pick up the stick.
+If the stool is not under the banana, push the stool under the banana.
+Climb onto the stool.
+If the monkey is on the stool and has the stick, get the banana.
+Display "Goal Achieved! Monkey got the banana."
+Stop.
