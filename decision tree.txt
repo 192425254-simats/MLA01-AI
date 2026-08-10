@@ -1,0 +1,9 @@
+Take the customer data.
+Choose the best feature (like Credit Score).
+Split the customers based on that feature.
+Keep splitting the data into smaller groups.
+Create final leaf nodes:
+Approve
+Reject
+For a new customer, follow the tree.
+Give the final prediction.
