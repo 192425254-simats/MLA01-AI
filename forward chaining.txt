@@ -1,0 +1,9 @@
+Start.
+Initialize the set of known facts.
+Define the production rules with conditions and conclusions.
+Check each rule against the available facts.
+If all conditions of a rule are satisfied, derive its conclusion.
+Add the new conclusion to the set of facts.
+Repeat Steps 4–6 until no new facts can be derived.
+Display all derived conclusions.
+Stop.
