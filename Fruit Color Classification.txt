@@ -1,0 +1,8 @@
+Start.
+Define facts for fruits and their colors.
+Define production rules that associate each color with a fruit type.
+Accept a fruit as the query.
+Check the color of the given fruit.
+Apply the corresponding production rule.
+Display the fruit classification.
+Stop.
