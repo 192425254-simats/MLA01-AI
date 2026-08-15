@@ -1,0 +1,9 @@
+Start.
+Define facts for the planets in the solar system.
+Store planetary properties such as distance from the Sun and planet type.
+Define logical rules such as inner planet and outer planet.
+Accept a query about a planet.
+Search the stored facts and rules.
+Apply logical inference to derive the required information.
+Display the planetary fact or conclusion.
+Stop.
