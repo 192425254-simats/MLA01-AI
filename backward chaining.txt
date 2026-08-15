@@ -1,0 +1,12 @@
+Start.
+Define the known symptoms as facts.
+Define rules connecting diseases with their symptoms.
+Select a disease as the goal.
+Check whether the goal is already a known fact.
+If not, find a rule that can prove the goal.
+Check each condition required by that rule.
+Recursively work backward until the required conditions are found as facts.
+If all conditions are satisfied, conclude that the disease is possible.
+Otherwise, reject the goal.
+Display the diagnosis.
+Stop.
